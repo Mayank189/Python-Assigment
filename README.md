@@ -1,3 +1,3 @@
 # Python-Assignment
 
-#Some of Pyhton coding question which solved as an assignemnt.
+#Python coding question which solved as a part of an assignement.
